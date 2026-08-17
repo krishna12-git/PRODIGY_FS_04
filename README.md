@@ -4,7 +4,7 @@ A responsive social media front-end with a warm, original visual style. Users ca
 
 ## Live Demo
 
-[Open Circlo Social](https://circlo-social.krishyadav7856.chatgpt.site)
+https://circlo-social-six.vercel.app
 
 ## Features
 
